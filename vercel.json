@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {"source": "/contact", "destination": "/#contacts", "permanent": true},
+    {"source": "/projects", "destination": "/#projects", "permanent": true},
+    {"source": "/documentation", "destination": "/#documents", "permanent": true},
+    {"source": "/services/:path*", "destination": "/#services", "permanent": true}
+  ]
+}

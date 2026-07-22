@@ -1,0 +1,4 @@
+/contact /#contacts 301
+/projects /#projects 301
+/documentation /#documents 301
+/services/* /#services 301
